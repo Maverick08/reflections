@@ -1,0 +1,5 @@
+what happens when you initialize a repository? why do you need to do it.
+
+	git creates the repository if not present, this way git knows to consider this as repository and manage it.
+
+
